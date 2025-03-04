@@ -1,4 +1,4 @@
-# MS-Photo--Calc
+# MS-Photo-Calc-Bundle
 Repo for Microsoft Photo and Calculator Store Bundles to install manually
 
 https://store.rg-adguard.net/
